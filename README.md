@@ -42,7 +42,7 @@ Aplikasi manajemen data sekolah berbasis web untuk SMK, dibangun dengan **Larave
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/SidiqFatuh187/sistem-informasi-smk.git
+git clone https://github.com/SidiqFatuh187/sistem-absensi-sekolah.git
 cd sistem-informasi-smk
 
 # 2. Install dependency PHP
